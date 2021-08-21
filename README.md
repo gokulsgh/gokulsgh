@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on any open-source projects
 - 💬 Ask me about Space Tech and Front-end devlopment or anything you like
 - 📫 How to reach me: Email <a href="mailto: 5svdnol2@anonaddy.me">5svdnol2@anonaddy.me</a>, <a href="https://twitter.com/Adityakm24"> Twitter</a> or <a href="www.linkedin.com/in/aditya-krishnan-mohan-94147a199">Linkedin</a>
-- 
+
 ## :email: Find me on:
 <p align="center">
  <a href="https://adityakm24.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
