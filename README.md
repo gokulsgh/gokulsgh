@@ -44,7 +44,7 @@
 
 ## :trophy: My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakm24&show_icons=true&theme=tokyonight)<br>
-![Top Langs][(https://github-readme-stats.vercel.app/api?username=adityakm24)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakm24&theme=tokyonight)
 <h2>📊 Stats</h2>
 
 <p align="center">
