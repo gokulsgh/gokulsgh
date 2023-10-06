@@ -1,4 +1,4 @@
-t<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Student, Full Stack Devloper, Space Enthusiast & Blogger</h3>
 <p align="center"><img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityakm24&label=Profile%20views&color=0e75b6&style=flat" alt="Adityakm24" /> 
@@ -54,9 +54,7 @@ t<h1 align="center">Hi 👋, I'm Aditya</h1>
 
 <h2>⭐ Badges</h2>
 
-<p align="center">
-  <a href="https://www.credly.com/badges/d108601a-9640-425b-b05b-085efc6fecd8/public_url"><img src="https://images.credly.com/size/220x220/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png"  width="100" height="100"/>
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Support:
