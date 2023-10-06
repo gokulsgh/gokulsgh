@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+t<h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Student, Full Stack Devloper, Space Enthusiast & Blogger</h3>
 <p align="center"><img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityakm24&label=Profile%20views&color=0e75b6&style=flat" alt="Adityakm24" /> 
@@ -48,7 +48,8 @@
 <h2>📊 Stats</h2>
 
 <p align="center">
-<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adityakm24&bg_color=000000&color=FFFFFF&line=FFFFFF&point=0277bd&hide_border=true" /></a>
+<img alt="Activity Graph" src="[https://activity-graph.herokuapp.com/graph?username=adityakm24&bg_color=000000&color=FFFFFF&line=FFFFFF&point=0277bd&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=adityakm24&g_color=000000&color=FFFFFF&line=FFFFFF&point=0277bd&hide_border=true)" /></a>
+
 </p>
 
 <h2>⭐ Badges</h2>
