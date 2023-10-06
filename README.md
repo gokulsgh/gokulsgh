@@ -48,7 +48,7 @@ t<h1 align="center">Hi 👋, I'm Aditya</h1>
 <h2>📊 Stats</h2>
 
 <p align="center">
-<img alt="Activity Graph" src="[https://activity-graph.herokuapp.com/graph?username=adityakm24&bg_color=000000&color=FFFFFF&line=FFFFFF&point=0277bd&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=adityakm24&g_color=000000&color=FFFFFF&line=FFFFFF&point=0277bd&hide_border=true)" /></a>
+[(https://github-readme-activity-graph.vercel.app/graph?username=adityakm24&g_color=000000&color=FFFFFF&line=FFFFFF&point=0277bd&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
 
