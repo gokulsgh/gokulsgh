@@ -11,7 +11,7 @@
 - 🔭 I’m currently working at TCS
 - 🌱 I’m currently learning Machine Learning and AI with Python
 - 👯 I’m looking to collaborate on any open-source projects
-- 💬 Ask me about Space Tech and Front-end devlopment or anything you like
+- 💬 Ask me about Space Tech and Front-end development or anything you like
 - 📫 How to reach me: Email <a href="mailto: 5svdnol2@anonaddy.me">5svdnol2@anonaddy.me</a>, <a href="https://twitter.com/Adityakm24"> Twitter</a> or <a href="www.linkedin.com/in/aditya-krishnan-mohan-94147a199">Linkedin</a>
 
 ## :email: Find me on:
