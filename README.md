@@ -47,12 +47,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakm24&theme=tokyonight)
 <h2>📊 Stats</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityakm24&g_color=000000&color=FFFFFF&line=FFFFFF&point=0277bd&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2>⭐ Badges</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <a href="https://www.credly.com/badges/d108601a-9640-425b-b05b-085efc6fecd8/public_url"><img src="https://images.credly.com/size/220x220/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png"  width="100" height="100"/>
+</p>
 
 ## Support:
 <a href="https://www.buymeacoffee.com/fusion" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;"></a>
