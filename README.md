@@ -47,10 +47,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakm24&theme=tokyonight)
 <h2>📊 Stats</h2>
 
-<p align="center">
-[![](https://github-readme-activity-graph.vercel.app/graph?username=adityakm24&g_color=000000&color=FFFFFF&line=FFFFFF&point=0277bd&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2>⭐ Badges</h2>
 
