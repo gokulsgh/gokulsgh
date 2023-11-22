@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gokul</h1><h3 align="center">Student, Web Developer and Designer</h3>
 <p align="center"><img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px"></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityakm24&label=Profile%20views&color=0e75b6&style=flat" alt="Adityakm24" /> 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/gokulsgh?style=social"/>
+<img align="center" alt="Coding" width="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"><img alt="GitHub followers" src="https://img.shields.io/github/followers/gokulsgh?style=social"/>
 </p>
 
 
 
-## 🎓 I'm a Computer Science studentL
+## 🎓 I'm a Computer Science student
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on any open-source projects
 - 💬 Ask me about Front-end development or anything you like
