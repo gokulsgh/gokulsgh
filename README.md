@@ -46,6 +46,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsgh&theme=tokyonight)
 <h2>📊 Stats</h2>
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityakm24&theme=merko&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulsgh&theme=merko&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
