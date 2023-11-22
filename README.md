@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul</h1><h3 align="center">Student, Web Developer and Designer</h3>
-<p align="center"><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100px"></p>
+<p align="center"><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="200px"></p>
 
 
 
