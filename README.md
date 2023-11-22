@@ -1,23 +1,22 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">Student, Full Stack Devloper, Space Enthusiast & Blogger</h3>
+<h1 align="center">Hi 👋, I'm Gokul</h1>
+<h3 align="center">Student, Web Developer and Designer</h3>
 <p align="center"><img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityakm24&label=Profile%20views&color=0e75b6&style=flat" alt="Adityakm24" /> 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/adityakm24?style=social"/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/gokulsgh?style=social"/>
 </p>
 
 
 
-## 🎓 I'm a Computer Science student with specialization in AI and ML
-- 🔭 I’m currently working at TCS
-- 🌱 I’m currently learning Machine Learning and AI with Python
+## 🎓 I'm a Computer Science studentL
+- 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on any open-source projects
-- 💬 Ask me about Space Tech and Front-end development or anything you like
-- 📫 How to reach me: Email <a href="mailto: 5svdnol2@anonaddy.me">5svdnol2@anonaddy.me</a>, <a href="https://twitter.com/Adityakm24"> Twitter</a> or <a href="www.linkedin.com/in/aditya-krishnan-mohan-94147a199">Linkedin</a>
+- 💬 Ask me about Front-end development or anything you like
+- 📫 How to reach me: Email <a href="mailto: askgokul123@gmail.com">askgokul123@gmail.com</a>, <a href="https://twitter.com/Adityakm24"> Twitter</a> or <a href="www.linkedin.com/in/gokul-sangeeth-381182252/">Linkedin</a>
 
 ## :email: Find me on:
 <p align="center">
- <a href="https://adityakm24.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="www.linkedin.com/in/aditya-krishnan-mohan-94147a199" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://gokulsgh.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="www.linkedin.com/in/gokul-sangeeth-381182252/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="5svdnol2@anonaddy.me"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
@@ -43,16 +42,10 @@
 </p>
 
 ## :trophy: My Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakm24&show_icons=true&theme=tokyonight)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakm24&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gokulsgh&show_icons=true&theme=tokyonight)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulsgh&theme=tokyonight)
 <h2>📊 Stats</h2>
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityakm24&theme=merko&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h2>⭐ Badges</h2>
 
-  <a href="https://www.credly.com/badges/d108601a-9640-425b-b05b-085efc6fecd8/public_url"><img src="https://images.credly.com/size/220x220/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png"  width="100" height="100"/>
-</p>
-
-## Support:
-<a href="https://www.buymeacoffee.com/fusion" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;"></a>
