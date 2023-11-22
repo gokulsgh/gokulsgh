@@ -1,5 +1,4 @@
-<center>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gokul Sangeeth</center>
-<h3 align="center">Student, Web Developer and Designer</h3>
+<h1 align="center">Hi 👋, I'm Gokul</h1><h3 align="center">Student, Web Developer and Designer</h3>
 <p align="center"><img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityakm24&label=Profile%20views&color=0e75b6&style=flat" alt="Adityakm24" /> 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/gokulsgh?style=social"/>
